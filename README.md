@@ -15,15 +15,15 @@ O objetivo é adivinhar o número com o menor número de tentativas possível. A
 - **Finalização do jogo**: O jogo termina quando o jogador acerta o número e o programa exibe o número total de tentativas.
 
 ## 💻 Tecnologias utilizadas
-- **Python 3.x**: Linguagem utilizada para o desenvolvimento do jogo.
+- **Python 3.11**: Linguagem utilizada para o desenvolvimento do jogo.
 - **Paradigmas de Programação Orientada a Objetos (POO)**: Utilização de classes como `Jogo` e `Jogador` para controlar a lógica do jogo e o comportamento do jogador, com encapsulamento e atributos privados.
 
 ## 🛠️ Instalando e Rodando
 1. Clone este repositório: `git@github.com:hi-giih/JogoAdvinhacao.git`
 
-2. Acesse o diretório do projeto: `cd desafio1`
+2. Acesse o diretório do projeto: `cd desafio2  - POO - Jogo Advinhação`
 
-3. Execute o script principal:: `python jogoCombate.py`
+3. Execute o script principal:: `python jogo.py`
 
 ## 📌 Futuras Melhorias
 
