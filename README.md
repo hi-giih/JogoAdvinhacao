@@ -27,8 +27,8 @@ O objetivo é adivinhar o número com o menor número de tentativas possível. A
 
 ## 📌 Futuras Melhorias
 
-- ** Ajuste de intervalo:** Permitir que o jogador escolha o intervalo de números (por exemplo, de 1 a 100) antes de iniciar o jogo.
-- ** Níveis de dificuldade:** Adicionar níveis de dificuldade que alterem o intervalo de números e a quantidade de tentativas máximas.
+- **Ajuste de intervalo:** Permitir que o jogador escolha o intervalo de números (por exemplo, de 1 a 100) antes de iniciar o jogo.
+- **Níveis de dificuldade:** Adicionar níveis de dificuldade que alterem o intervalo de números e a quantidade de tentativas máximas.
 - **Interface Gráfica:** Criar uma interface gráfica utilizando Tkinter ou outra biblioteca de GUI para tornar o jogo mais interativo.
 - **Armazenamento de pontuações:** Implementar um sistema de pontuação ou ranking para registrar as melhores pontuações e o número mínimo de tentativas.
 - **Validação de entradas:** Melhorar a validação de entradas para garantir que o jogador insira apenas números válidos.
