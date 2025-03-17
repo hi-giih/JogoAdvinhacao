@@ -19,19 +19,19 @@ O objetivo é adivinhar o número com o menor número de tentativas possível. A
 - **Paradigmas de Programação Orientada a Objetos (POO)**: Utilização de classes como `Jogo` e `Jogador` para controlar a lógica do jogo e o comportamento do jogador, com encapsulamento e atributos privados.
 
 ## 🛠️ Instalando e Rodando
-1. Clone o repositório para o seu ambiente local:
+1. Clone este repositório: `git@github.com:hi-giih/JogoAdvinhacao.git`
 
-```bash
-git clone git@github.com:hi-giih/jogoAdvinhacao.git
+2. Acesse o diretório do projeto: `cd desafio1`
 
+3. Execute o script principal:: `python jogoCombate.py`
 
-##  📌 Futuras Melhorias
+## 📌 Futuras Melhorias
 
-Ajuste de intervalo: Permitir que o jogador escolha o intervalo de números (por exemplo, de 1 a 100) antes de iniciar o jogo.
-Níveis de dificuldade: Adicionar níveis de dificuldade que alterem o intervalo de números e a quantidade de tentativas máximas.
-Interface Gráfica: Criar uma interface gráfica utilizando Tkinter ou outra biblioteca de GUI para tornar o jogo mais interativo.
-Armazenamento de pontuações: Implementar um sistema de pontuação ou ranking para registrar as melhores pontuações e o número mínimo de tentativas.
-Validação de entradas: Melhorar a validação de entradas para garantir que o jogador insira apenas números válidos.
+- ** Ajuste de intervalo:** Permitir que o jogador escolha o intervalo de números (por exemplo, de 1 a 100) antes de iniciar o jogo.
+- ** Níveis de dificuldade:** Adicionar níveis de dificuldade que alterem o intervalo de números e a quantidade de tentativas máximas.
+- **Interface Gráfica:** Criar uma interface gráfica utilizando Tkinter ou outra biblioteca de GUI para tornar o jogo mais interativo.
+- **Armazenamento de pontuações:** Implementar um sistema de pontuação ou ranking para registrar as melhores pontuações e o número mínimo de tentativas.
+- **Validação de entradas:** Melhorar a validação de entradas para garantir que o jogador insira apenas números válidos.
 
 ## 📜 Licença 
 
