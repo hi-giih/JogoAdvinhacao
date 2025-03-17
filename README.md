@@ -1,4 +1,4 @@
-#🤔 Jogo de Adivinhação
+# 🤔 Jogo de Adivinhação
 ![Static Badge](https://img.shields.io/badge/status-Active-gren?style=for-the-badge)
 
 ## 📋 Descrição
